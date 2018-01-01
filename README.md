@@ -9,3 +9,5 @@ If any errors due to dependencies please enter
 
 and you can see the web app at
 "http://localhost:3000/"
+
+The correct pattern is Capital Letter " M "
